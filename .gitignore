@@ -259,3 +259,12 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/GBQ20230627.zip
+/wpsdataprd-db2cc75baf3d.json
+/SF_ContactMarketingActivities.zip
+/SET_BE_Tealium_GBQ_20230706.txt
+/GoogleBigQueryLog20230706.txt
+/GoogleBigQueryLog20230628.txt
+/GoogleBigQueryLog20230627.txt
+/GoogleBigQueryLog20230621.txt
+/Fact_Invoice.zip
